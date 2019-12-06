@@ -17,12 +17,12 @@ SLA calculation tools
 DevOps ( Operations)
 Manager
 
-###Tools
+### Tools
 Monitoring tools with a basic sets of Monitors: Zabbix, scom, SNMP Agents/Systems, rdp, prometeus, splunk, windows WMI ....  
 
 ## Root Cause Analyses - Monitoring
 
-###Description/Definition
+### Description/Definition
 Monitoring of applications with the purpose of finding the cause of a malfunction.
 
 Therefore there might need to have multiple indicators, spread over multiple applications or systems. 
@@ -30,8 +30,8 @@ Therefore there might need to have multiple indicators, spread over multiple app
 Setup needs a lot of know-how and resources as the ("complex") relationships between indicators should be known.  
 Code injections migth be needed, "working paths" should be known/predicted or malfunctions/errors should be reproducable to be able to analyse.
 
-###Stakeholders
+### Stakeholders
 DevOps ( Development)
 
-###Tools
+### Tools
 dynatrace, zabbix, prometues, aanpm
