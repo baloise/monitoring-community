@@ -9,10 +9,13 @@ organizational:
 Monthly meetings/updates
 
 content:
-[Skills](skills&tools/index.md) & experts matrix
-[Tools matrix](skills&tools/index.md)
-[Q&A section](FAQ/index.md)
-[Docs](docs/index.md)
+-[Skills](skills&tools/index.md) & experts matrix
+
+-[Tools matrix](skills&tools/index.md)
+
+-[Q&A section](FAQ/index.md)
+
+-[Docs](docs/index.md)
 
 future outcomes:
 provide monitoring services
