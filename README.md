@@ -11,7 +11,7 @@ Monthly meetings/updates
 
 content:
 
--[Skills](SKILLS&TOOLS/index.md) & experts matrix
+-[Skills & experts matrix](SKILLS&TOOLS/index.md)
 
 -[Tools matrix](SKILLS&TOOLS/index.md)
 
