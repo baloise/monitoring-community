@@ -39,7 +39,8 @@ DevOps ( Development)
 
 ### Mindset
 Identify characterists/behaviour of a component and the dependencies and impact/influences on adjacent/connected componenents.
-Isolate and/or reproduce a event/problem/behaviour
+Isolate and/or reproduce a event/problem/behaviour.
+What are you measuring and how are you measuring
 
 ### Tools
 dynatrace, zabbix, prometues, aanpm
