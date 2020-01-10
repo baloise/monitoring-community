@@ -1,6 +1,7 @@
-# ZIS Notifications#
+# ZIS Notifications
 https://confluence.baloisenet.com/atlassian/display/tserv/ZIS+Alarmierungs+Konzept
 
-# Grafana #
+# Grafana
 
-# Prometheus #
+# Prometheus
+
