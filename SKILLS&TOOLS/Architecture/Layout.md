@@ -13,3 +13,8 @@
 -connection/relation to SMDB/CMDB
 
 
+## Cloud flavours
+
+IaaS --> Provider Monitoring tool. KPI: isolated elements
+PaaS --> zabbix / prometheus / Application specific internal tool
+SaaS --> zabbix / prometheus / Application specific internal tool / roboters/application monitoring
