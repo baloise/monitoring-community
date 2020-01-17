@@ -15,6 +15,6 @@
 
 ## Cloud flavours
 
-IaaS --> Provider Monitoring tool. KPI: isolated elements
-PaaS --> zabbix / prometheus / Application specific internal tool
-SaaS --> zabbix / prometheus / Application specific internal tool / roboters/application monitoring
+IaaS --> zabbix / prometheus / Provider Monitoring tool. KPI: isolated elements, Systems characteristics
+PaaS --> zabbix / prometheus / Application specific internal tool / roboters,user transactions KPI: Application characteristics
+SaaS --> Application specific internal tool / roboters,user transactions KPI: User experience
